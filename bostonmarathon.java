@@ -6,7 +6,7 @@ package vu.course_work;
 
 /**
  *
- * @author GLORIA UGO453
+ * @author 
  */
 public class bostonmarathon {  
     public static void main(String[] args) {
